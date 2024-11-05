@@ -10,9 +10,6 @@ Welcome to the **Data Analytics Portal**! This web application allows users to u
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
