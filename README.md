@@ -40,7 +40,7 @@ Welcome to the **Data Analytics Portal**! This web application allows users to u
 
 These features allow for easy data exploration, analysis, and visualization without requiring complex coding skills.
 
-
+## Project is Live
 https://data-analytics-webtool.streamlit.app/
 
 ## Technologies Used
