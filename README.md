@@ -2,6 +2,8 @@
 
 Welcome to the **Data Analytics Portal**! This web application allows users to upload datasets, perform exploratory data analysis, and visualize data through interactive charts. It is built using Streamlit, Pandas, and Plotly, making data analysis accessible and interactive.
 
+LIVE : https://data-analytics-webtool.streamlit.app/
+
 ![Dashboard View](https://github.com/user-attachments/assets/924c6458-8c4d-43f8-b1a9-7ed05750bfc4)
 
 
